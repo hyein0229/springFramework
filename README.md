@@ -17,6 +17,7 @@
 - [Synchronizing Resources with Transactions](transaction/3.Synchronizing_resources_with_transaction.md)
 - [@Transactional](transaction/4.Using_Transactional.md)
 - [Transaction Propagation](transaction/5.Propagation.md)
+- [Programmatic Transaction Management](transaction/6.Programmatic_Transaction_Management.md)
 
 ### AOP
 - [리플렉션(Reflection)](aop/0.Reflection.md)
